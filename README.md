@@ -8,7 +8,7 @@ Simple Tags gives you the ability to create HTML elements in a simmilar way to j
 
 *The third param tells SimpleTags that this tag is self-closing*
 
-    IHtmlString logo = SimpleTags.Tag("img", new {src = "images/logo.png", alt = "My Logo", true};
+    IHtmlString logo = SimpleTags.Tag("img", new {src= "images/logo.png", alt= "My Logo", true};
 
 *You can use @class or css to set the class*
 
