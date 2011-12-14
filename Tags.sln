@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tags.Simple", "Tags.Simple\Tags.Simple.csproj", "{7B91C18D-86D6-49A9-ADFB-D59A8D2EF6A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tags.Simple.Tests", "Tags.Simple.Tests\Tags.Simple.Tests.csproj", "{8AD9BA86-FC24-47C3-93A7-B028D8674393}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B91C18D-86D6-49A9-ADFB-D59A8D2EF6A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B91C18D-86D6-49A9-ADFB-D59A8D2EF6A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B91C18D-86D6-49A9-ADFB-D59A8D2EF6A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B91C18D-86D6-49A9-ADFB-D59A8D2EF6A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AD9BA86-FC24-47C3-93A7-B028D8674393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AD9BA86-FC24-47C3-93A7-B028D8674393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AD9BA86-FC24-47C3-93A7-B028D8674393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AD9BA86-FC24-47C3-93A7-B028D8674393}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
